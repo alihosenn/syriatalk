@@ -1,17 +1,11 @@
-#SyriaTalk IM
-==========================
+SyriaTalk IM
 
 [![تحميل سيرياتالك](http://www.syriatalk.im/images/logo.png)]
 
-ejabberd is a distributed, fault-tolerant technology that allows the creation
-of large-scale instant messaging applications. The server can reliably support
-thousands of simultaneous users on a single node and has been designed to
-provide exceptional standards of fault tolerance. As an open source
-technology, based on industry-standards, ejabberd can be used to build bespoke
-solutions very cost effectively.
+سيرياتالك هو تطبيق تراسل فوري عبر برتوكول xmpp وهي منصة مفتوحة المصدر
 
 
-Key Features
+ALI ANGER
 ------------
 
 - **Cross-platform**  
